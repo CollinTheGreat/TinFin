@@ -1,2 +1,19 @@
 @import "reset";
 
+
+html{
+  background-color: #2C41FF;
+}
+header{     
+  background-color: #2C9FFF;
+  height: 200px;
+  width:100%;
+  padding: 25px 0 0 25%;
+
+  h1{
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    letter-spacing: 10px;
+  }
+}

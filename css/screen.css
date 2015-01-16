@@ -55,52 +55,19 @@ table {
   background-position: 0 0;
 }
 
-.wrap {
-  margin: 0 auto;
-  max-width: 1000px;
-  padding: 0 20px;
-  background: white;
+html {
+  background-color: #2C41FF;
 }
 
-body {
-  font-family: Helvetica;
-  font-size: 16px;
-  line-height: 21px;
-  background: lightgrey;
+header {
+  background-color: #2C9FFF;
+  height: 200px;
+  width: 100%;
+  padding: 25px 0 0 25%;
 }
-
-a {
-  color: #800000;
-}
-
-p {
-  margin-bottom: 1.1em;
-}
-
-h1 {
-  font-size: 24px;
+header h1 {
+  font-family: 'Karla', sans-serif;
   font-weight: bold;
-  margin-bottom: .8em;
-}
-
-.content {
-  padding: 20px 0;
-  font-size: 0;
-}
-
-.main, .side {
-  display: inline-block;
-  vertical-align: top;
-}
-
-.main {
-  width: 65%;
-  margin-right: 5%;
-  font-size: 16px;
-}
-
-.side {
-  width: 30%;
-  color: #666;
-  font-size: 14px;
+  font-size: 60px;
+  letter-spacing: 10px;
 }
