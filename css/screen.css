@@ -73,3 +73,19 @@ header h1 {
 header img {
   float: left;
 }
+
+div.info {
+  background: white;
+  width: 50%;
+  border-radius: 20px;
+  height: 300px;
+  padding: 30px 50px;
+  line-height: 2em;
+  margin: 75px auto;
+}
+div.info h2 {
+  font-family: 'Slackey', cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
